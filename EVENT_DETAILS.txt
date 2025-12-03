@@ -1,0 +1,58 @@
+TMUC GEEKATHON F-25 – EVENT DETAILS
+=== WELCOME MESSAGE ===
+Welcome to TMUC GEEKATHON F-25!
+We are excited to host this flagship event at The Millennium Universal College (TMUC) – MiTE Campus, where our talented Computing & IT students will present innovative projects, technical skills, and real-world solutions.
+This event is a celebration of creativity, teamwork, and emerging technology.
+________________________________________
+=== EVENT INFORMATION ===
+Event Name: GEEKATHON F-25
+Date: Thursday, 4th December 2025
+Time: 10:00 AM – 4:00 PM
+Venue: TMUC MiTE Campus – 2nd Floor (Computing Labs & Exhibition Area)
+Location: Main Shahrah-e-Faisal Campus, Karachi, Pakistan
+
+=== GUESTS & JUDGES ===
+Chief Guest:
+• Mr. Veqar Islam – Distinguished Technology & Corporate Leader
+Guests of Honour:
+• Muhammad Tahir – Chair AAAI Pakistan | Forbes-Nominated | Govt-Awarded AI Leader
+• Muhammad Hammad Masood – Senior Program Manager | PgMP®, PMP®, PRINCE2®, PMI-ACP®
+• Qazi Nouman Mujahid – CEO Digitech Infra | Co-Chapter Leader DEFCON | Presidential Awarded Entrepreneur
+
+
+Ms Madiha Muqeem , Head of International Program
+Dr. Huma Baqai Rector MiTE
+
+=== FACULTY & STAFF ===
+Event Coordinator:
+• Ms. Kulsoom Farhan
+Faculty Members Supporting the Event:
+• Sir Hafiz Muhammad Attaullah
+• Sir Naveed Farrukh
+• Sir Ziauddin Siddiqui
+• Sir Waqas Ahmed Siddiqui
+Core Leadership Team:
+• Event Co-Coordinators: Wajahat Ali Maroof & Daniyal Dilshad
+• Co-Coordinator Assistants: Amrita & Tooba
+Registration & Coordination Leads:
+• Rimsha, Uzair & Muzna
+Multimedia & Photography Leads:
+• Saad Habib + Team
+Guest Relations Leads:
+• Lisha & Sana
+Logic & Code Championship Leads:
+• Mujtaba, M. Shaheer & Abdullah
+Hosts:
+• Moomal & Esha
+
+=== PROJECT CATEGORIES – GEEKATHON F-25 ===
+ IoT & Smart Systems Projects
+(Embedded systems, sensor-based automation, home/industry solutions)
+ Application Development
+(Web-based and Desktop Applications, Full-Stack Solutions)
+Artificial Intelligence & Data Intelligence Projects
+(AI models, ML classification systems, smart analytics)
+ Website Design & Frontend Innovation
+(UI/UX focused websites, portfolio sites, interactive designs)
+
+
