@@ -9,7 +9,7 @@ Event Name: GEEKATHON F-25
 Date: Thursday, 4th December 2025
 Time: 10:00 AM – 4:00 PM
 Venue: TMUC MiTE Campus – 2nd Floor (Computing Labs & Exhibition Area)
-Location: Main Shahrah-e-Faisal Campus, Karachi, Pakistan
+Location: 10 Sector-47 Cantonment Board, Korangi Creek, Karachi, 75190
 
 === GUESTS & JUDGES ===
 Chief Guest:
@@ -54,5 +54,7 @@ Artificial Intelligence & Data Intelligence Projects
 (AI models, ML classification systems, smart analytics)
  Website Design & Frontend Innovation
 (UI/UX focused websites, portfolio sites, interactive designs)
+
+
 
 
